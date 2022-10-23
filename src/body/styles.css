@@ -1,0 +1,13 @@
+.skill-profile {
+    display: flex;
+    border-bottom: 1px solid rgba(166, 97, 186, 0.5);
+    width: 100%;
+}
+
+.name-skill {
+    width: 200px;
+}
+
+.contact-skill {
+    width: 70%;
+}
